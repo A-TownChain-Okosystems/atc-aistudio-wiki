@@ -1,14 +1,37 @@
-# Architektur — atc-aistudio
+# 🌳 Architektur — atc-aistudio-wiki
 
-## Übersicht
-Dokumentation für AI Studio Komponenten
+> **Stand:** 2026-08-06 | **Commit:** f42275d
+> **Teil von:** [A-TownChain Ökosystem](https://github.com/A-TownChain-Okosystems)
 
-## Komponenten
-- Siehe [Code-Repo](https://github.com/A-TownChain-Okosystems/atc-aistudio) für Details
+## Statistik
 
-## Abhängigkeiten
-- A-TownChain OS Core
-- ShivaCore Kernel
-- ATCLang
+| Metrik | Wert |
+|--------|------|
+| Dateien | 12 |
+| Zeilen | 407 |
+| .atc | 0 |
+| .py | 0 |
+| .rs | 0 |
+| .ts/.tsx | 0 |
+| .md | 10 |
 
-[agent: aurora-base44-superagent-6a2756186106d6f0fbb105b5]
+## Verzeichnisstruktur
+
+```
+├── docs/ (4 files, 302 lines)
+│   ├── API.md (14 lines)
+│   ├── ARCHITECTURE.md (57 lines)
+│   ├── MODULES.md (208 lines)
+│   └── ROADMAP.md (23 lines)
+├── .gitignore
+├── ARCHITECTURE.md (14 lines)
+├── FILE_REGISTER.md (14 lines)
+├── LICENSE
+├── MODULES.md (10 lines)
+├── README.md (24 lines)
+├── ROADMAP.md (8 lines)
+└── STATUS.md (35 lines)
+```
+
+---
+*Auto-generiert 2026-08-06 · Aurora (MasterBrain · Base44)*
