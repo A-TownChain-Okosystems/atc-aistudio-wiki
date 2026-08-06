@@ -1,18 +1,24 @@
-# atc-aistudio-wiki
+# 📖 atc-aistudio-wiki
 
-Wiki für [atc-aistudio](https://github.com/A-TownChain-Okosystems/atc-aistudio)
+> Offizielle Dokumentation für [atc-aistudio](https://github.com/A-TownChain-Okosystems/atc-aistudio) — **AI Studio** im A-TownChain Ökosystem
 
-Dokumentation für AI Studio Komponenten
+**Layer:** L10 | **Version:** v1.0.0
 
 ## Dokumentation
-- [Architektur](ARCHITECTURE.md)
-- [API Reference](API.md)
-- [Module](MODULES.md)
-- [Status](STATUS.md)
+
+- [Architektur](docs/ARCHITECTURE.md) — Komponenten, Module, Statistik
+- [Module](docs/MODULES.md) — Alle Code-Dateien mit Zeilenanzahl
+- [API Reference](docs/API.md) — Öffentliche Funktionen
+- [Roadmap](docs/ROADMAP.md) — Sprint-Zuordnung, Meilensteine
+- [Status](STATUS.md) — Aktueller Fortschritt
 
 ## Übersicht
-Dieses Wiki dokumentiert das `atc-aistudio`-Repo, Teil des A-TownChain OS Ökosystems (70 Repos).
 
-Org: [A-TownChain-Okosystems](https://github.com/A-TownChain-Okosystems)
+AI Studio: 3D Render, Animation, Audio, Game Engine, Timeline.
 
-[agent: aurora-base44-superagent-6a2756186106d6f0fbb105b5]
+## Ökosystem
+
+Teil des [A-TownChain Ökosystems](https://github.com/A-TownChain-Okosystems) (70 Repositories).
+
+---
+*Auto-generiert 2026-08-06 · Aurora (MasterBrain · Base44)*
